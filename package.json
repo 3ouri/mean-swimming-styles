@@ -1,0 +1,31 @@
+{
+  "name": "swimming-styles-app",
+  "version": "1.0.0",
+  "description": "Swimming Styles Application is a Personal Hobby Project that is built using MEAN",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3ouri/swimming-styles-app.git"
+  },
+  "keywords": [
+    "NODE",
+    "EXPRESS",
+    "MONGODB",
+    "MONGOOSE",
+    "STROKE"
+  ],
+  "author": "Abdallah Mustafa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/3ouri/swimming-styles-app/issues"
+  },
+  "homepage": "https://github.com/3ouri/swimming-styles-app#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.0.0"
+  }
+}
